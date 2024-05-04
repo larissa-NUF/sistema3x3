@@ -1,5 +1,4 @@
 # Calculadora de sistema 3x3
-============================
 ## Sobre
 Este é um projeto simples desenvolvido em react para resolver sistemas 3x3 e classificar-los
 
