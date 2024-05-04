@@ -16,7 +16,8 @@ const Referencias = () => {
                     <AccordionDetails>
                         Digite os valores de cada parte do sistema nas respectivas caixas de texto. <br/>
                         Não há necessidade de clicar em nenhum botão para gerar o resultado, eles são calculados a cada mudança realizada nas caixas de texto.<br/>
-                        Caso não seja digitado nenhum valor será reconhecido como 0.
+                        Caso não seja digitado nenhum valor será reconhecido como 0.<br/>
+                        Caso queira utilizar número negátivos basta colocar o hífen (-) na frente do núemro dentro da caia de texto.
                     </AccordionDetails>
 
                 </Accordion>
